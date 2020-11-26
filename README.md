@@ -1,3 +1,8 @@
+TO DO: 
+
+Update for compatibility w/ current Python distro (3.9 atm)
+Implement other upgrade requests? Like progress bar?
+
 Fawkes
 ------
 
